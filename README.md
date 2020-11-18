@@ -1,8 +1,8 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center"> 
-  Currently:
-- Studying CS at The University of Melbourne
+  Currently: <br> 
+- Studying CS at The University of Melbourne <br> 
 - Working at ANZ
     <br> 
 </p>
