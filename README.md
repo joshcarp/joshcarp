@@ -4,7 +4,6 @@
 
 ## The Stuff I've done/Stuff I'm interested in:
 - Somewhat Implemented IEEE 754-R standard [decimal](https://github.com/anz-bank/decimal)
-- Sysl Specification language: [Sysl](https://github.com/anz-bank/sysl)
 - GCP stuff (cloud functions, cloud run, k8s, dataflow, spanner) 
 - gRPC, protoc plugins: [proto to "sysl"](https://github.com/anz-bank/protoc-gen-sysl) [enum stringer](https://github.com/joshcarp/protoc-gen-stringer)
 - a plethora of unfinished projects:
