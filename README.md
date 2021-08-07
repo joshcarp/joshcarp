@@ -16,4 +16,4 @@
 - [GopherconAU decimal](https://joshcarp.com/talks-decimal/#/">slides) [recording](https://www.youtube.com/watch?v=F5rUM4GAs6A&feature=youtu.be) 
 - Introduction to cloud functions: [cloud functions](https://joshcarp.com/talks-cloud-functions/#/)
   
-# [Website](https://joshcarp.com) | [Linkedin](https://www.linkedin.com/in/joshcarp/) | [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=josh@joshcarp.com)
+## [Website](https://joshcarp.com) | [Linkedin](https://www.linkedin.com/in/joshcarp/) | [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=josh@joshcarp.com)
