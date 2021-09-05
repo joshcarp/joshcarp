@@ -10,8 +10,8 @@
 - Dynamic Mocking Tool [dmt](https://github.com/joshcarp/dmt) for grpc and http servers.
 - go code generators: [muster](https://github.com/joshcarp/muster)
 - a plethora of unfinished projects:
-  - [epicportfol.io](epicportfol.io) a portfolio website we did for our it project (grpc, google cloud run, firebase)
-  - [altethical.com](altethical.com) a website that uses gcp cloud vision to find eco friendly alternatives to your picture
+  - [epicportfol.io](https://github.com/joshcarp/epicportfol.io) a portfolio website we did for our it project (grpc, google cloud run, firebase)
+  - [altethical.com](https://github.com/joshcarp/altethical) a website that uses gcp cloud vision to find eco friendly alternatives to your picture
   - Some really bad slackbots: [rosterbot](https://github.com/joshcarp/rosterbot), [whattimeisitrightnow](https://github.com/joshcarp/whattimeisitrightnow)
 ## Talks:
 - [GopherconAU decimal](https://joshcarp.com/talks-decimal/#/">slides),  [recording](https://www.youtube.com/watch?v=F5rUM4GAs6A&feature=youtu.be) 
