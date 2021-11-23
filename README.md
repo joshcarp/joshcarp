@@ -1,3 +1,9 @@
+
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcarp)](https://github.com/joshcarp/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshcarp)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Currently
 - Working at ANZ
 - Studying CS at The University of Melbourne
