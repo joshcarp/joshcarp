@@ -1,6 +1,8 @@
 ## Currently
-- Working at ANZ
-- Studying CS at The University of Melbourne
+- Working at [Buf](bud.build)
+
+## Education
+- CS at The University of Melbourne
 
 ## The Stuff I've done/interested in:
 - Somewhat Implemented IEEE 754-R standard [decimal](https://github.com/anz-bank/decimal)
