@@ -1,6 +1,3 @@
-## Currently
-- Working at [Buf](https://buf.build)
-
 ## Education
 - CS at The University of Melbourne
 
