@@ -1,5 +1,6 @@
 ## Stuff I've Done/Doing
 - llm stuff https://github.com/joshcarp/llm.go
+- https://huggingface.co/joshcarp
 - Contributing to the [evy project](https://github.com/evylang)
 - IEEE 754-R standard [decimal](https://github.com/anz-bank/decimal)
 - [proto to "sysl"](https://github.com/anz-bank/protoc-gen-sysl) convert proto to sysl
