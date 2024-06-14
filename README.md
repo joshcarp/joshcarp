@@ -1,7 +1,7 @@
-## Stuff I've Done/Doing
-- llm stuff https://github.com/joshcarp/llm.go
-- https://huggingface.co/joshcarp
+## Stuff I'm Doing
+- [LLM Notes/Blog](https://joshcarp.notion.site/LLM-resources-fe118332b84f49c286b8045922c7f5a2?pvs=4)
 - Contributing to the [evy project](https://github.com/evylang)
+## Archive
 - IEEE 754-R standard [decimal](https://github.com/anz-bank/decimal)
 - [proto to "sysl"](https://github.com/anz-bank/protoc-gen-sysl) convert proto to sysl
 - [stringer](https://github.com/joshcarp/protoc-gen-stringer) automatically create a stringer function compatible with protos c++ naming conventions.
