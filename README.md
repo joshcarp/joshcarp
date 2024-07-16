@@ -27,11 +27,11 @@ Sometimes I talk about things.
 ---
 
 - Name: Josh
-- Type: Human assisted by [AI](https://joshcarp.notion.site/ML-resources-fe118332b84f49c286b8045922c7f5a2?pvs=96)
+- Type: Human assisted by [AI](https://gradalley.com)
 - Location: Toronto, Canada
 - [Contact](https://joshcarp.notion.site/Contact-26ca3066a8f84e928c3e83de98b23065?pvs=25):
     - [**github**](https://github.com/joshcarp), [**linkedin**](https://www.linkedin.com/in/joshcarp/), [🤗](https://huggingface.co/joshcarp), [**x**](https://x.com/joshjcarp), joshuacarpeggiani@gmail.com, discord: joshcarp, [**book a meeting**](https://cal.com/joshua-carpeggiani-joshua-carpeggiani-dapwfm)
-- Likes: [**cooking**](https://joshcarp.notion.site/Cooking-c0447a4a8fbb47d4a5f1903cd94b7a0c?pvs=25), [croissants](https://joshcarp.notion.site/9ce6a545ed0d423ca4ac2eca24db97b5?v=cbcccc3380ee446c98e8142b0a9d9c4c&pvs=96), [code](https://joshcarp.notion.site/ML-resources-fe118332b84f49c286b8045922c7f5a2?pvs=96), as well as other stuff I haven't made a notion page on yet
+- Likes: [**cooking**](https://joshcarp.notion.site/Cooking-c0447a4a8fbb47d4a5f1903cd94b7a0c?pvs=25), [croissants](https://joshcarp.notion.site/9ce6a545ed0d423ca4ac2eca24db97b5?v=cbcccc3380ee446c98e8142b0a9d9c4c&pvs=96), [code](https://gradalley.com), as well as other stuff I haven't made a notion page on yet
 - Focus (subject to change): ~~protobuf~~, ~~bread~~, AI safety, interpretability, education
 - Bio:
     - Human who is curious about how things work.
@@ -39,8 +39,8 @@ Sometimes I talk about things.
     - Education: CS + AI + ML @ The University of Melbourne
     - Previously: **Software Engineer - [ANZ Bank](https://github.com/anz-bank)** in Melbourne, Australia.
     - Previously: **Senior Software Engineer - [**Buf Technologies**](https://github.com/bufbuild) in Toronto, Canada.
-    - Currently: LLM compilers/runtimes, [**research papers**](https://joshcarp.notion.site/ML-resources-fe118332b84f49c286b8045922c7f5a2?pvs=96), [**interpretability**](https://joshcarp.notion.site/ML-resources-fe118332b84f49c286b8045922c7f5a2?pvs=96), [**education**](https://github.com/evylang/evy), using technology for social good.
-    - My [**ML blog**](https://joshcarp.notion.site/ML-resources-fe118332b84f49c286b8045922c7f5a2?pvs=96) serves as a good curated list of content and research papers, as well as a way to share ideas.
+    - Currently: LLM compilers/runtimes, [**research papers**](https://gradalley.com), [**interpretability**](https://gradalley.com), [**education**](https://github.com/evylang/evy), using technology for social good.
+    - My [**ML blog**](https://gradalley.com) serves as a good curated list of content and research papers, as well as a way to share ideas.
     - I care a lot about open source:
         - [**My own projects**](https://joshcarp.notion.site/What-I-ve-been-up-to-59341285e8ea4466bec64bd93eb1bcae?pvs=25)
         - [**LLM features for the evy project**](https://evy.dev/)
