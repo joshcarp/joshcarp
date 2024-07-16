@@ -1,6 +1,6 @@
 Welcome to a collection of things I do.
 
-- [**ML resources**](https://joshcarp.notion.site/ML-resources-fe118332b84f49c286b8045922c7f5a2?pvs=96)
+- [**ML resources**](https://gradalley.com)
 - [**Croissants**](https://joshcarp.notion.site/9ce6a545ed0d423ca4ac2eca24db97b5?v=cbcccc3380ee446c98e8142b0a9d9c4c&pvs=96)
 - [**Cooking**](https://joshcarp.notion.site/Cooking-c0447a4a8fbb47d4a5f1903cd94b7a0c?pvs=25)
 - [**Concerts**](https://joshcarp.notion.site/Concerts-71f20754b49e4e00a0e43596630937b1?pvs=25)
@@ -11,7 +11,7 @@ Welcome to a collection of things I do.
 ---
 
 Sometimes I write about things.
-- [**Blog**](https://joshcarp.notion.site/f0f7e0d55113441281cefd7fdb482a1c?v=71566976dd354c2aaabda2d3b89dac98&pvs=96)
+- [**Blog**](https://gradalley.com)
 
 # 📢 Talks
 
